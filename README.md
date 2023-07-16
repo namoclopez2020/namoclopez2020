@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jose Alfonso Namoc Lopez
 - 👀 I’m interested to work
-- 🌱 I’m currently learning javascript, dart n flutter
+- 🌱 I’m currently learning typescript, nestjs and python
 - 💞️ I’m looking to collaborate on many projects
